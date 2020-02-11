@@ -2839,3 +2839,7 @@ body.is-menu-visible #menu {
   max-width: 110%;
 }
 
+.final_img_table tr th {
+  background-color: #ffffff;
+  border: 1px solid white;
+}
