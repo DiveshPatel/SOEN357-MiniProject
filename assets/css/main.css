@@ -2865,6 +2865,11 @@ body.is-menu-visible #menu {
   max-height: 95%;
 }
 
+.iteration_settings {
+  max-width: 85%;
+  max-height: 85%;
+}
+
 .final_img_table tr th {
   max-width: 100%;
   max-height: 100%;
