@@ -2840,6 +2840,11 @@ body.is-menu-visible #menu {
   box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
   visibility: visible; }
 
+.palette_img {
+    max-width: 50%;
+    max-height: 50%;
+  }
+
 .persona_img {
   max-width: 100%;
   max-height: 100%;
